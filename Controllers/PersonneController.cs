@@ -25,7 +25,9 @@ namespace API.Controllers
             var personne = new string[]{
 
                 "HAMZA",
-                "HOUDI"
+                "HOUDI",
+                "HABOU",
+                "PER"
 
             };
             return Ok(personne);
