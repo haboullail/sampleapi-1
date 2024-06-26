@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "X/CjClOdQVRNJ6M5ycxo5TmoCVr2rbeU0OKjCNq186Fh+8JZ5T3LG7ib0VeSrp/i5Ou67yfYLb74Z+sFlV0Qzw==",
+  "success": true,
+  "projectFilePath": "C:\\TEST\\Youtube\\Azure\\IAC\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Houda Epmethri\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Houda Epmethri\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Houda Epmethri\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Houda Epmethri\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Houda Epmethri\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Houda Epmethri\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
